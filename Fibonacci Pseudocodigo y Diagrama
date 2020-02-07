@@ -1,0 +1,13 @@
+Ejercicio 3: Serie de Fibonacci (Pseudocodigo). 
+
+1.	Favor de ingresar un número mayor que 20 y menor que 1000, el cual será tú limite. 
+2.	A nuestra variable (Num1) le asignamos el valor de 0. 
+3.	Ahora a nuestra variable (Num2) le asignamos el valor de 1.
+4.	Le mostramos el valor de Num1 y Num2  al usuario. 
+5.	Comenzamos con la suma de Temp que va ser Num1 + Num2. 
+6.	Mostramos el resultado de Temp. 
+7.	Nombramos un nuevo valor a la variable Num1  que va a ser igual que Num2. 
+8.	A la variable Num2  le damos el valor de Temp. 
+9.	Repetimos hasta que tengamos el número que se nos ingresó o hasta acercarnos lo más posible. 
+10.	Fin de proceso.  
+
